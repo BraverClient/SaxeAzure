@@ -15,7 +15,7 @@
   ]
 , "devDependencies":
   { "nodeunit": ">0.0.0"
-  , "uglify-js": "1.2.x"
+  , "uglify-js": "2.6.0"
   , "nodelint": ">0.0.0"
   }
 }
